@@ -1,20 +1,21 @@
 ## Kubernetes
-durable-task:1.6
-credentials:1.22
+durable-task:1.11
+#credentials:1.22
 kubernetes:0.7
 
 ## Git Plugin
-junit:1.2
+junit:1.15
 script-security:1.13
 matrix-project:1.7.1
-ssh-credentials:1.11
+ssh-credentials:1.12
 promoted-builds:2.25
-scm-api:1.0
+scm-api:1.2
 parameterized-trigger:2.4
-workflow-step-api:1.15
-workflow-scm-step:1.14.2
-credentials:1.25
-mailer:1.16
-git-client:1.19.6
+workflow-step-api:2.2
+workflow-scm-step:2.2
+credentials:2.1.4
+mailer:1.17
+git-client:1.19.7
 token-macro:1.11
+structs:1.2
 git:2.5.2
